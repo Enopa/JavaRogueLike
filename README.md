@@ -33,6 +33,6 @@ There are several enemies you may face
 
 ## Extras
 This entire project was developed in BlueJ, not the most amazing IDE, but its got some cool features. 
-The use of BlueJ will also explain the extra little features shown here and there, have fun!
-
+The use of BlueJ will also explain the extra little features shown here and there.
+To run the game, just open up the JAR file, have fun!
 
