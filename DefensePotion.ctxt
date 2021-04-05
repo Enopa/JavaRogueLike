@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=DefensePotion
+comment0.text=\r\nDefense\ Potion\ Class\r\nWhen\ usePotion\ is\ run,\ the\ players\r\ndefense\ is\ increased.\r\n
+comment1.params=
+comment1.target=DefensePotion()
+comment2.params=
+comment2.target=java.lang.String\ description()
+comment3.params=player
+comment3.target=java.lang.String\ usePotion(Character)
+numComments=4

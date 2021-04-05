@@ -1,0 +1,18 @@
+#BlueJ class context
+comment0.target=Character
+comment0.text=\r\nCharacter\ class.\ Parent\ class\ of\ the\ \r\nindividual\ types\ of\ character\ the\ player\r\ncan\ choose.\r\nHas\ basic\ attack\ and\ damage\ class\ methods\r\n
+comment1.params=str\ max\ def\ nam
+comment1.target=Character(int,\ int,\ int,\ java.lang.String)
+comment2.params=
+comment2.target=java.lang.String\ getName()
+comment3.params=
+comment3.target=java.lang.String\ getInfo()
+comment4.params=
+comment4.target=java.lang.String\ moveSet()
+comment5.params=price\ p
+comment5.target=java.lang.String\ buy(int,\ Potion)
+comment6.params=damage
+comment6.target=java.lang.String\ takeDamage(int)
+comment7.params=attackName
+comment7.target=int\ attack(java.lang.String)
+numComments=8

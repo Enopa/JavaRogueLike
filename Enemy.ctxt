@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=Enemy
+comment0.text=\r\nThe\ enemy\ class.\ Holds\r\ntheir\ health\ and\ damage\r\n
+comment1.params=n\ max\ dmg
+comment1.target=Enemy(java.lang.String,\ int,\ int)
+comment2.params=randomDamage
+comment2.target=int\ enemyAttack(int)
+comment3.params=dmg
+comment3.target=java.lang.String\ takeDamage(int)
+comment4.params=
+comment4.target=java.lang.String\ getInfo()
+numComments=5

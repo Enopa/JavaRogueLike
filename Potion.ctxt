@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=Potion
+comment0.text=\r\nPotion\ superclass\r\nThis\ is\ the\ base\ potion\ class\ that\ \r\nthe\ player\ will\ have\ equipped\ if\ no\ \r\nspecial\ potion\ is\ available.\r\nIt\ does\ nothing\r\n
+comment1.params=player
+comment1.target=java.lang.String\ usePotion(Character)
+comment2.params=
+comment2.target=java.lang.String\ description()
+numComments=3

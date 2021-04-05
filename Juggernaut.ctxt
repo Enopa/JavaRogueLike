@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=Juggernaut
+comment0.text=\r\nJuggernaut\ Class\r\nHas\ additional\ absorb\ hit\ method\r\nthat\ allowed\ the\ character\ to\ take\ \r\nno\ damage\ for\ the\ first\ hit\ of\ combat\r\n
+comment1.params=nam
+comment1.target=Juggernaut(java.lang.String)
+comment2.params=
+comment2.target=java.lang.String\ getName()
+comment3.params=attackName
+comment3.target=int\ attack(java.lang.String)
+comment4.params=
+comment4.target=java.lang.String\ moveSet()
+numComments=5

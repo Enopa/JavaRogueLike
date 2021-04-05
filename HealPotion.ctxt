@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=HealPotion
+comment0.text=\r\nHealPotion\ Class\r\nWhen\ usePotion\ is\ run,\ the\ players\r\nHealth\ is\ restored\r\n
+comment1.params=
+comment1.target=HealPotion()
+comment2.params=
+comment2.target=java.lang.String\ description()
+comment3.params=player
+comment3.target=java.lang.String\ usePotion(Character)
+numComments=4

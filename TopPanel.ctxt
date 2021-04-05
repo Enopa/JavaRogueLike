@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=TopPanel
+comment1.params=f
+comment1.target=TopPanel(java.awt.Frame)
+comment2.params=output\ output2
+comment2.target=void\ refresh(java.lang.String,\ java.lang.String)
+numComments=3

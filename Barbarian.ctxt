@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=Barbarian
+comment0.text=\r\nBarbarian\ Class\r\nOverrides\ getName\ and\ getInfo\ class\ \r\nas\ well\ as\ having\ its\ own\ switchWeapons\ method.\r\nAlso\ has\ to\ additional\ variables,\ secondWeapon\ and\ storeWeapon.\r\n
+comment1.params=nam
+comment1.target=Barbarian(java.lang.String)
+comment2.params=
+comment2.target=java.lang.String\ getName()
+comment3.params=
+comment3.target=java.lang.String\ getInfo()
+comment4.params=
+comment4.target=java.lang.String\ switchWeapons()
+comment5.params=attackName
+comment5.target=int\ attack(java.lang.String)
+comment6.params=
+comment6.target=java.lang.String\ moveSet()
+numComments=7
